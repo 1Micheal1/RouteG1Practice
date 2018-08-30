@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="route">Route</string>
+    <string name="survey">Survey</string>
+    <string name="user_name">user name</string>
+</resources>

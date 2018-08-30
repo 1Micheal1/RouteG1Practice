@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="welcome">welcome</string>
+    <string name="skip">skip</string>
+    <string name="let_s_go">Let\'s go</string>
+    <string name="do_you_have_account">Do you have account ?</string>
+    <string name="sign_in_now">Sign In now</string>
+    <string name="route">Route</string>
+    <string name="survey">Survey</string>
+    <string name="user_name">user name</string>
+</resources>
